@@ -1,4 +1,4 @@
-# jmthon for learning
+# jmthon for learnin
 ## Deploy
 
 To be safe fork this repo and then press deploy button from the forked repo 
